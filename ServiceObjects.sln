@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceObjects", "ServiceObjects\ServiceObjects.csproj", "{18803FC9-13EE-4994-B368-E418F2AAE9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceObjectsExample", "ServiceObjectsExample\ServiceObjectsExample.csproj", "{B4726594-C54A-462D-916C-5F97456CA94F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18803FC9-13EE-4994-B368-E418F2AAE9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18803FC9-13EE-4994-B368-E418F2AAE9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18803FC9-13EE-4994-B368-E418F2AAE9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18803FC9-13EE-4994-B368-E418F2AAE9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4726594-C54A-462D-916C-5F97456CA94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4726594-C54A-462D-916C-5F97456CA94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4726594-C54A-462D-916C-5F97456CA94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4726594-C54A-462D-916C-5F97456CA94F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1003792C-F766-4653-AE56-1471F3CEDEAC}
+	EndGlobalSection
+EndGlobal
